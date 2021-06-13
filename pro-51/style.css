@@ -1,0 +1,40 @@
+.origami{
+    display : flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #000000;
+    border:solid;
+    color: #ffffff;
+}
+
+
+body{
+    background-color:#000000;
+}
+
+h1{
+    border:solid;
+    background-color: #000000;
+    font-family:serif;
+    text-align: center;
+    color:#ffffffff
+}
+a:link{
+    color:#ffffff;
+}
+
+a:visited{
+    color:#ffffff;
+}
+
+.menu{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-family:cursive;
+    font-size: 15px;
+}
+
+.ins{
+    color:#ffffff;
+    text-align: center;
+}
